@@ -1,10 +1,10 @@
 {
-  "name": "linkshare/linkshare-api",
+  "name": "smartsites/linkshare-api",
   "description": "API Wrapper for consuming LinkShare developer APIs.",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/trafficgate/linkshare-api/issues",
-    "source": "https://github.com/trafficgate/linkshare-api"
+    "issues": "https://github.com/smart-sites/linkshare-api/issues",
+    "source": "https://github.com/smart-sites/linkshare-api"
   },
   "authors": [
     {
